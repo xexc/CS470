@@ -2,7 +2,7 @@
 
 https://youtu.be/WCUciSr5IoQ
 
-Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
+
 This course taught me alot about how serverless computing works. Being able to manage all your code and services without have to manage a server is great. Also learning AWS and how to use their services will benefit my career. 
 
 I think one of my main strengths as a software developer is my problem solving skills. It might be some form of OCD, but when I cant figure out how something works, it keeps me up. I cant sleep, or focus on anything else until I know how it works, forcing me to solve problems and learn things fast.
